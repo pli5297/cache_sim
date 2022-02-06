@@ -1,0 +1,2 @@
+Make sure Python 3+ is installed on your machine. Then go to the directory in which "cachesimulator.py" and the given "input.txt" files are located, 
+and enter "python cachesimulator.py" in your terminal. :D
